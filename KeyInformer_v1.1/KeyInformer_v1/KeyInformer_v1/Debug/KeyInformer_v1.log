@@ -1,0 +1,6 @@
+﻿  CppCLR_WinformsProjekt.cpp
+c:\users\mgr\desktop\keyinformer\keyinformer_v1.1\keyinformer_v1\keyinformer_v1\form1.h(818): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+c:\users\mgr\desktop\keyinformer\keyinformer_v1.1\keyinformer_v1\keyinformer_v1\form1.h(831): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+c:\users\mgr\desktop\keyinformer\keyinformer_v1.1\keyinformer_v1\keyinformer_v1\form1.h(839): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  KeyInformer_v1.vcxproj -> C:\Users\mgr\Desktop\KeyInformer\KeyInformer_v1.1\KeyInformer_v1\Debug\KeyInformer_v1.exe
